@@ -1,0 +1,71 @@
+Use Case 3-
+
+	
+Build an appointment scheduling application
+	
+		
+	User have to create an account  (done)
+			
+			
+			
+	User should login into the app after signup  (done)
+			
+			
+			
+	User should see list of consultants on home screen (done)
+			
+			
+			
+	User can filter out list of consultants with (name, experience, category, etc)   ------------------------------------NotDone
+			
+			
+			
+	User can select consultants from the list
+			
+			
+			
+	User can select date and slot time available for the selected date for the consultant
+			
+			
+			
+	User can book the appointment for an available slot
+			
+			
+			
+	After the booking, user can customise the reminder (an hour before, a day before, etc)  ------------   NotDone
+			
+			
+			
+	User can update their profile.
+			
+			
+			
+	User can logout from the app whenever selected.
+			
+			
+			
+	Reminder will be shown as a form of notification				-------------------------------------   NotDone
+			 
+			
+			
+	App will also have consultant login
+			
+			
+			
+	Consultant will see list of bookings with respect to date and time (Revsort) ----------------------------------- NotDone 
+			
+			
+			
+	Consultant can cancel the booking with appropriate reasoning  	--------------------------------------------NOt Done ( partially )
+			
+			
+			
+	Consultant can customise his/her profile and available slots.  ( add/del SLots)
+			
+			
+			
+	Consultant will receive notification as user books the available slot  --------------------------------------- NotDone
+			
+			
+			
+	Consultant can logout from the app whenever selected.

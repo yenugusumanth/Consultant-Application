@@ -1,0 +1,26 @@
+
+Folders
+	screens
+		Navigation
+			(stack Nav)
+				Welcome 
+				signUp
+				login
+				  forgetPass
+				Home
+				
+		users
+			drawers (Home,profile,settings,logout)
+				Tab
+					consultant(List of Consultants)(filter), Your Appointments(updateSlot(Btn))
+		
+	
+		consusltants
+			drawer (Home,profile,settings,logout)
+				Tab
+					consultant(My appointments)(filter(today,week,month),(cancel(btn)), add slots
+			
+			canceeled appointment ( reason ) 
+			
+		
+		

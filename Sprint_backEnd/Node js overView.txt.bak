@@ -1,0 +1,56 @@
+Database are required
+	1. users
+	2. consultant
+	3. Bookings
+	
+Folders
+	
+	Models
+		
+		1. users
+			email
+			name
+			password
+			DOB
+			Country
+			phone Numbers
+			slot Booked
+		
+		2. Consultant
+			Clinic name
+			doctor Name
+			doctoremail
+			Specilization
+			password
+			address
+			phone number
+			Slots
+
+controllers
+
+	1. users
+	2. Consultant
+	
+	
+HTTP's
+	
+	1. users
+		
+		Post
+		
+			Create, Auth, bookSlot, Logout, updateProfile(email)
+		
+		Get
+			
+			getListOfConsultant(filter), searchClininc, getProfile
+		
+	
+	2. Consultant
+	
+		Post
+			
+			create, auth, createSlot, cancelBookings, updateProfile, logout
+		
+		Get
+		
+			allBookings, getProfile, deleteSlot
